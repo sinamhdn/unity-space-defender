@@ -39,7 +39,6 @@ Font are from https://www.dafont.com/
 - Sorting layers
 - Playing audio based on conditions in the scene
 - Play audio at camera location
-- 
 
 ## Important Notes
 **ADD SCENES TO BUILD SETTINGS IN THIS ORDER "StartMenu" > "Game" > "GameComplete" > "GameOver"**
