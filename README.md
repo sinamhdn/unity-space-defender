@@ -1,2 +1,2 @@
 # unity-space-defender
- A space shooter practice project in unity
+A 2d space shooter practice project in unity
