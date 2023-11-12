@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 556c424ea0b5790469fc5a5adc089360, type: 3}
+  m_Name: SOW5
+  m_EditorClassIdentifier: 
+  enemy:
+  - {fileID: 5130637365819298189, guid: 5ff0a67cfa8fe4042bae29d4e9268eab, type: 3}
+  - {fileID: 4788148612312584241, guid: f839ec11c423ed94ca23da67faaa4cf4, type: 3}
+  - {fileID: 4788148612312584241, guid: cf11be9546239434fa3ae20dfad9b582, type: 3}
+  enemySpawnRandomness:
+  - 0
+  - 0
+  - 100
+  path: {fileID: 8513660250102542077, guid: 1a411b0d308f34c4e9573079a0ac813d, type: 3}
+  enemyCount: 6
+  spawnDelay: 1.5
+  moveSpeed: 2
