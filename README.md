@@ -1,5 +1,5 @@
 # unity-space-defender
-A 2d space shooter practice project in unity
+A 2d space shooter demo project in unity
 
 ![Screenshot](https://github.com/sinamhdn/unity-space-defender/assets/34884156/ef91a599-a3f8-4c31-9eb5-52d4f8590fcd)
 
