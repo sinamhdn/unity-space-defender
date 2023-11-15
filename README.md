@@ -1,7 +1,7 @@
 # unity-space-defender
 A 2d space shooter demo project in unity
 
-![Screenshot](https://github.com/sinamhdn/unity-space-defender/assets/34884156/ef91a599-a3f8-4c31-9eb5-52d4f8590fcd)
+![Screenshot](https://github.com/sinamhdn/unity-space-defender/assets/34884156/2158e394-df38-42d4-a693-ca56901119ce)
 
 ## Unity Version
 2022.3.2f1 LTS
@@ -12,6 +12,9 @@ Fx Explosion Pack from unity assets store \
 Dynamic Space Background Lite by DinV Studio on unity assets store \
 opengameart.org NES Shooter by sketchylogic \
 Font are from https://www.dafont.com/ 
+
+## Aspect Ratio
+9:16
 
 ## Concepts Used
 - Adding new screen resolution for the game window
