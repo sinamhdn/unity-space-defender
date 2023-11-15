@@ -186,7 +186,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   deathSFX: {fileID: 8300000, guid: afd0ffce9e3a3574d9e57520e533c493, type: 3}
   deathVFXVolume: 0.75
-  shootSFX: {fileID: 8300000, guid: a01992b482c562c4a9139f9399f42ff3, type: 3}
+  shootSFX: {fileID: 8300000, guid: 2dcfc0c3d057d88458722774a5670da6, type: 3}
   shootVFXVolume: 0.75
   moveSpeed: 10
   paddingX: 0.75

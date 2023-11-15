@@ -163,18 +163,18 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1465c2d5436eaf94a82565a1590ed7a9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  projectile: {fileID: 6097960646866040448, guid: 5079c5f4b2156084d91b004c3c5d73a2, type: 3}
-  deathVFX: {fileID: 6062250822814383443, guid: 9fc57560341d8c84b869ad5f8b3615e5, type: 3}
-  deathSFX: {fileID: 8300000, guid: 8553114f379ae634a920d03c4b7a89a6, type: 3}
-  deathVFXVolume: 0.7
-  shootSFX: {fileID: 8300000, guid: 5f119749716758e45ae02ef95c31fdb5, type: 3}
-  shootVFXVolume: 0.25
   health: 100
-  shotCounter: 0
+  scoreValue: 150
+  projectile: {fileID: 6097960646866040448, guid: 5079c5f4b2156084d91b004c3c5d73a2, type: 3}
+  projectileSpeed: 10
   minDelayBetweenShots: 0.2
   maxDelayBetweenShots: 3
-  projectileSpeed: 10
+  deathVFX: {fileID: 6062250822814383443, guid: 9fc57560341d8c84b869ad5f8b3615e5, type: 3}
   explosionDuration: 1
+  deathSFX: {fileID: 8300000, guid: 8553114f379ae634a920d03c4b7a89a6, type: 3}
+  deathVFXVolume: 0.7
+  shootSFX: {fileID: 8300000, guid: 985c23fefb1bee048be1850f9bb3f09e, type: 3}
+  shootVFXVolume: 0.25
 --- !u!114 &980361807546695786
 MonoBehaviour:
   m_ObjectHideFlags: 0
