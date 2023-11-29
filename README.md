@@ -1,4 +1,4 @@
-# unity-space-defender
+# Space Defender
 A 2d space shooter demo project in unity
 
 ![Screenshot](https://github.com/sinamhdn/unity-space-defender/assets/34884156/2158e394-df38-42d4-a693-ca56901119ce)
@@ -6,7 +6,7 @@ A 2d space shooter demo project in unity
 ## Unity Version
 2022.3.2f1 LTS
 
-## Assets Used
+## Assets
 Space Shooter Redux from https://www.kenney.nl/ \
 Fx Explosion Pack from unity assets store \
 Dynamic Space Background Lite by DinV Studio on unity assets store \
@@ -16,7 +16,7 @@ Font are from https://www.dafont.com/
 ## Aspect Ratio
 9:16
 
-## Concepts Used
+## Concepts
 - Adding new screen resolution for the game window
 - Loading Scenes based on build index and name
 - Coroutines
